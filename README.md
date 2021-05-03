@@ -8,3 +8,4 @@ Election data has following results
 
  
 ## Election Audit Summary
+This Election Audit Results can be very flexible code that can be used for variety of different election campain. Additionally this code displays the result very clearly.
