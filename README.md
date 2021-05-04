@@ -4,6 +4,10 @@ Using Python code, creating a code that reads, sorts the results and display the
 
 ## Election Audit Results
 Election data has following results
+- Total Vots: 369,711
+- Largest County : Denver
+- Winner: Diana DeGette
+- Winning Percentage: 73.8%
 - [Election Results](https://github.com/jamesmoonusa/Challenge_3/blob/main/Election_Analysis/analysis/Capture.PNG)
 
  
