@@ -1,4 +1,3 @@
-# Challenge_3
 ## Overview of Election Audit
 Using Python code, creating a code that reads, sorts the results and display the results of the elction which is from data CSV file. As editing and createing python code we inspect the data and result so that we can analyize election data. 
 
